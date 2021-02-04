@@ -29,4 +29,5 @@ module.exports = {
     isValidAmExCard,
     isValidDinersClubCard,
     isValidMasterCard,
+    isValidVisaCard
 };
